@@ -1,4 +1,4 @@
-<table class="table-clickable"><thead><tr><th>日付</th><th>始値</th><th>高値</th><th>安値</th><th>終値</th><th>出来高</th><th>調整後終値</th></tr></thead>
+<thead><tr><th>日付</th><th>始値</th><th>高値</th><th>安値</th><th>終値</th><th>出来高</th><th>調整後終値</th></tr></thead>
 <tbody>
 <tr><td>2021-12-30</td><td>2,059</td><td>2,073</td><td>2,052</td><td>2,062</td><td>421,200</td><td>2,062</td></tr>
 <tr><td>2021-12-29</td><td>2,079</td><td>2,082</td><td>2,052</td><td>2,061</td><td>597,100</td><td>2,061</td></tr>
@@ -246,4 +246,3 @@
 <tr><td>2021-01-05</td><td>2,383.5</td><td>2,383.5</td><td>2,344.5</td><td>2,354.5</td><td>1,134,300</td><td>2,354.50</td></tr>
 <tr><td>2021-01-04</td><td>2,398</td><td>2,414</td><td>2,364.5</td><td>2,371</td><td>661,800</td><td>2,371</td></tr>
 </tbody>
-</table>

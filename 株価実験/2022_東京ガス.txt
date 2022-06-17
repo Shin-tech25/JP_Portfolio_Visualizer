@@ -1,4 +1,4 @@
-<table class="table-clickable"><thead><tr><th>日付</th><th>始値</th><th>高値</th><th>安値</th><th>終値</th><th>出来高</th><th>調整後終値</th></tr></thead>
+<thead><tr><th>日付</th><th>始値</th><th>高値</th><th>安値</th><th>終値</th><th>出来高</th><th>調整後終値</th></tr></thead>
 <tbody>
 <tr><td>2022-06-16</td><td>2,619</td><td>2,666</td><td>2,618</td><td>2,651</td><td>1,750,900</td><td>2,651</td></tr>
 <tr><td>2022-06-15</td><td>2,686</td><td>2,700</td><td>2,615</td><td>2,615</td><td>1,832,200</td><td>2,615</td></tr>
@@ -111,4 +111,3 @@
 <tr><td>2022-01-05</td><td>2,091</td><td>2,091</td><td>2,064</td><td>2,084</td><td>1,047,600</td><td>2,084</td></tr>
 <tr><td>2022-01-04</td><td>2,110</td><td>2,125</td><td>2,065</td><td>2,081</td><td>1,032,400</td><td>2,081</td></tr>
 </tbody>
-</table>
